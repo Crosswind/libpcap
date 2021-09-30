@@ -3,3 +3,5 @@
 
 # things that only make sense on github.com
 .github export-ignore
+
+* zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
